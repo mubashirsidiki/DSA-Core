@@ -17,7 +17,7 @@ DSA Core is a repository aimed at providing a solid foundation in data structure
 To get started, simply clone this repository to your local machine:
 
 ```
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/mubashirsidiki/DSA-Core.git)
 ```
 
 Then, explore the directories for data structures and algorithms that interest you. Each directory contains detailed documentation and examples to help you understand and use the implementations.
@@ -25,9 +25,5 @@ Then, explore the directories for data structures and algorithms that interest y
 ## Contributing
 
 Contributions are welcome! If you find a bug, have an enhancement suggestion, or want to add a new data structure or algorithm, feel free to open an issue or submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
